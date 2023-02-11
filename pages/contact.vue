@@ -28,7 +28,7 @@
             <div>
                 <div class="font-extralight text-sm py-8">
                     <p>
-                        {{$const.email}}
+                        <a :href="'mailto:' + $const.email">{{$const.email}}</a>
                     </p>
                 </div>
                 <div class="flex flex-row space-x-4 mb-8">
@@ -38,16 +38,6 @@
                     <a target="_blank" :href="$const.instagram">
                         <font-awesome-icon icon="fa-brands fa-instagram"/>
                     </a>
-                </div>
-                <div>
-                    <input v-model="name" class="mb-2 w-full border border-gray-500 bg-gray-100 outline-none" placeholder="Full Name" type="text"/>
-                    <input v-model="company" class="mb-2 w-full border border-gray-500 bg-gray-100 outline-none" placeholder="Company" type="text"/>
-                    <input v-model="email" class="mb-2 w-full border border-gray-500 bg-gray-100 outline-none" placeholder="Email" type="email"/>
-                    <textarea v-model="text" class="mb-2 w-full border border-gray-500 bg-gray-100 outline-none"
-                              placeholder="Type your message here..."></textarea>
-                    <core-button @click="submit" classes="btn-dark float-right">
-                        Submit
-                    </core-button>
                 </div>
             </div>
         </div>

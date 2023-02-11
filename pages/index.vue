@@ -32,23 +32,25 @@
 
                 <p class="text-base font-thin">Specialties</p>
                 <ul class="text-sm list-disc list-inside">
-                    <li>Social Media</li>
-                    <li>Strategic Planning</li>
-                    <li>Correspondence</li>
-                    <li>Office Administration</li>
-                    <li>Research</li>
-                    <li>Public speaking</li>
-                    <li>Reception</li>
-                    <li>Management</li>
+                    <li class="text-xs">Social Media</li>
+                    <li class="text-xs">Strategic Planning</li>
+                    <li class="text-xs">Correspondence</li>
+                    <li class="text-xs">Office Administration</li>
+                    <li class="text-xs">Research</li>
+                    <li class="text-xs">Public speaking</li>
+                    <li class="text-xs">Reception</li>
+                    <li class="text-xs">Management</li>
                 </ul>
 
                 <div class="h-6"></div>
 
                 <p class="text-base font-thin">Work Exprerience</p>
                 <ul class="text-sm list-disc list-inside">
-                    <li><span class="text-xs">January 2022 - Currently</span> &nbsp;&nbsp;&nbsp;&nbsp; - The Bio-Bunker.</li>
+                    <li><span class="text-xs">January 2022 - Currently</span> &nbsp;&nbsp;&nbsp;&nbsp; - The Bio-Bunker.
+                    </li>
                     <li><span class="text-xs">June 2014 - November 2016</span> - Medihelp Medical Scheme (Strata).</li>
-                    <li><span class="text-xs">June 2011 - November 2013</span> - Lolec Electrical & Plumbing Services.</li>
+                    <li><span class="text-xs">June 2011 - November 2013</span> - Lolec Electrical & Plumbing Services.
+                    </li>
                 </ul>
 
                 <div class="h-6"></div>
@@ -56,19 +58,6 @@
                 <p class="text-base font-thin">Education</p>
                 <ul class="text-sm list-disc list-inside">
                     <li><span class="text-xs">2009</span> - National Senior Certificate (Matric).</li>
-<!--                    <li>Afrikaans First Language</li>
-                    <li>English Second Language</li>
-                    <li>Mathematical Literacy (Distinction)</li>
-                    <li>Electrical Technology</li>
-                    <li>Technical Drawings</li>
-                    <li>Life Orientation</li>-->
-                </ul>
-
-                <div class="h-6"></div>
-
-                <p class="text-base font-thin">Courses</p>
-                <ul class="text-sm list-disc list-inside">
-                    <li><span class="text-xs">2014</span> - Medihelp Medical Scheme.</li>
                     <!--                    <li>Afrikaans First Language</li>
                                         <li>English Second Language</li>
                                         <li>Mathematical Literacy (Distinction)</li>
@@ -79,18 +68,33 @@
 
                 <div class="h-6"></div>
 
+                <p class="text-base font-thin">Courses</p>
+                <ul class="text-sm list-disc list-inside">
+                    <li>
+                        <span class="text-xs">2014</span> - Medihelp Medical Scheme.
+                        <ul class="text-sm list-disc list-inside mt-1 pl-4">
+                            <li class="text-xs">Microsoft Word Level 1</li>
+                            <li class="text-xs">Client Management Theory</li>
+                            <li class="text-xs">Client Management Practical</li>
+                            <li class="text-xs">Basic Anatomy and Medical Terminology</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <div class="h-6"></div>
+
                 <p class="text-base font-thin">Additional Skills</p>
                 <ul class="text-sm list-disc list-inside">
-                    <li>Time Management</li>
-                    <li>Customer Service</li>
-                    <li>Typing</li>
-                    <li>Filing</li>
-                    <li>Communication</li>
-                    <li>Organization Skills</li>
-                    <li>Multitasking</li>
-                    <li>Self-management</li>
-                    <li>Flexible Schedule</li>
-                    <li>Prioritize Workload</li>
+                    <li class="text-xs">Time Management</li>
+                    <li class="text-xs">Customer Service</li>
+                    <li class="text-xs">Typing</li>
+                    <li class="text-xs">Filing</li>
+                    <li class="text-xs">Communication</li>
+                    <li class="text-xs">Organization Skills</li>
+                    <li class="text-xs">Multitasking</li>
+                    <li class="text-xs">Self-management</li>
+                    <li class="text-xs">Flexible Schedule</li>
+                    <li class="text-xs">Prioritize Workload</li>
                 </ul>
             </div>
         </div>
