@@ -55,21 +55,24 @@
 
                 <div class="h-6"></div>
 
-                <p class="text-base font-thin">Education</p>
+                <p class="text-base font-thin">Diploma's</p>
                 <ul class="text-sm list-disc list-inside">
-                    <li><span class="text-xs">2009</span> - National Senior Certificate (Matric).</li>
-                    <!--                    <li>Afrikaans First Language</li>
-                                        <li>English Second Language</li>
-                                        <li>Mathematical Literacy (Distinction)</li>
-                                        <li>Electrical Technology</li>
-                                        <li>Technical Drawings</li>
-                                        <li>Life Orientation</li>-->
+                    <li><span class="text-xs">2023</span> - Veterinary Assistant Diploma (Distinction).</li>
+                    <li><span class="text-xs">2023</span> - Biology Diploma (In progress).</li>
+                    <li><span class="text-xs">2023</span> - Herpetology Diploma (In progress).</li>
+                    <li><span class="text-xs">2023</span> - Botany Diploma (In progress).</li>
                 </ul>
 
                 <div class="h-6"></div>
 
-                <p class="text-base font-thin">Courses</p>
+                <p class="text-base font-thin">Certificates</p>
                 <ul class="text-sm list-disc list-inside">
+                    <li>
+                        <span class="text-xs">2023</span> - TEFL Universal
+                        <ul class="text-sm list-disc list-inside mt-1 pl-4">
+                            <li class="text-xs">Teaching English as a Foreign Language (TEFL) (Completed).</li>
+                        </ul>
+                    </li>
                     <li>
                         <span class="text-xs">2014</span> - Medihelp Medical Scheme.
                         <ul class="text-sm list-disc list-inside mt-1 pl-4">
@@ -79,6 +82,19 @@
                             <li class="text-xs">Basic Anatomy and Medical Terminology</li>
                         </ul>
                     </li>
+                </ul>
+
+                <div class="h-6"></div>
+
+                <p class="text-base font-thin">Education</p>
+                <ul class="text-sm list-disc list-inside">
+                    <li><span class="text-xs">2009</span> - National Senior Certificate (Matric).</li>
+                    <!--                    <li>Afrikaans First Language</li>
+                                        <li>English Second Language</li>
+                                        <li>Mathematical Literacy (Distinction)</li>
+                                        <li>Electrical Technology</li>
+                                        <li>Technical Drawings</li>
+                                        <li>Life Orientation</li>-->
                 </ul>
 
                 <div class="h-6"></div>
