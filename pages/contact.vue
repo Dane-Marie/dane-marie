@@ -22,7 +22,7 @@
     <div>
         <h4 class="mt-3 text-lg font-semibold">Contact</h4>
 
-        <img/>
+        <img src="CV_Photo.jpg" style="width: 200px;"/>
 
         <div class="flex flex-col sm:flex-row sm:space-x-10 sm:space-y-0 space-y-4 mb-5">
             <div>
