@@ -58,9 +58,9 @@
                 <p class="text-base font-thin">Diploma's</p>
                 <ul class="text-sm list-disc list-inside">
                     <li><span class="text-xs">2023</span> - Veterinary Assistant Diploma (Distinction).</li>
-                    <li><span class="text-xs">2023</span> - Biology Diploma (In progress).</li>
+                    <li><span class="text-xs">2023</span> - Biology Diploma (Distinction).</li>
+                    <li><span class="text-xs">2023</span> - Botany Diploma (Merit).</li>
                     <li><span class="text-xs">2023</span> - Herpetology Diploma (In progress).</li>
-                    <li><span class="text-xs">2023</span> - Botany Diploma (In progress).</li>
                 </ul>
 
                 <div class="h-6"></div>
