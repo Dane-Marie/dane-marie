@@ -25,7 +25,7 @@ img {
                     variety of professional environments with my main focus being remote managerial with administrative
                     duties along with customer care. I am very detail oriented, highly organised, responsible and an
                     excellent communicator. I always strive to learn more and develop my skills as much as I possibly
-                    can. 
+                    can.
                 </p>
             </div>
             <div class="w-1/2">
@@ -47,9 +47,9 @@ img {
 
                 <div class="h-6"></div>
 
-                <p class="text-base font-thin">Work Exprerience</p>
+                <p class="text-base font-thin">Work Experience</p>
                 <ul class="text-sm list-disc list-inside">
-                    <li><span class="text-xs">January 2022 - Currently</span> &nbsp;&nbsp;&nbsp;&nbsp; - The Bio-Bunker.
+                    <li><span class="text-xs">January 2022 - June 2023</span> &nbsp;&nbsp;&nbsp; - The Bio-Bunker.
                     </li>
                     <li><span class="text-xs">June 2014 - November 2016</span> - Medihelp Medical Scheme (Strata).</li>
                     <li><span class="text-xs">June 2011 - November 2013</span> - Lolec Electrical & Plumbing Services.
@@ -92,12 +92,6 @@ img {
                 <p class="text-base font-thin">Education</p>
                 <ul class="text-sm list-disc list-inside">
                     <li><span class="text-xs">2009</span> - National Senior Certificate (Matric).</li>
-                    <!--                    <li>Afrikaans First Language</li>
-                                        <li>English Second Language</li>
-                                        <li>Mathematical Literacy (Distinction)</li>
-                                        <li>Electrical Technology</li>
-                                        <li>Technical Drawings</li>
-                                        <li>Life Orientation</li>-->
                 </ul>
 
                 <div class="h-6"></div>
