@@ -10,7 +10,7 @@ main {
             <default-side-menu/>
             <main>
                 <div class="h-20"></div>
-                <h1 class="pt-4 text-3xl font-bold">
+                <h1 class="pt-4 pb-4 text-3xl font-bold">
                     {{$const.fullName}}
                 </h1>
                 <Nuxt/>

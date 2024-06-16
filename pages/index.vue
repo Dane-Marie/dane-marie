@@ -1,15 +1,18 @@
 ﻿<style scoped lang="scss">
-
+img {
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
 </style>
 
 <template>
     <div>
-        <h4 class="mt-3 text-lg font-semibold">Bio</h4>
-
-        <img/>
-
         <div class="flex flex-col sm:flex-row sm:space-x-10 sm:space-y-0 space-y-4 mb-5">
             <div class="w-1/2">
+                <img src="CV_Photo.jpg"/>
+
+                <h4 class="mt-3 text-lg font-semibold">Bio</h4>
                 <h5 class="mt-3 mb-1 text-lg font-semibold">
                     {{ $const.fullName }}
                 </h5>
@@ -26,7 +29,7 @@
                 </p>
             </div>
             <div class="w-1/2">
-                <h5 class="mt-3 text-lg font-semibold">
+                <h5 class="text-lg font-semibold">
                     CV
                 </h5>
 
@@ -60,7 +63,7 @@
                     <li><span class="text-xs">2023</span> - Veterinary Assistant Diploma (Distinction).</li>
                     <li><span class="text-xs">2023</span> - Biology Diploma (Distinction).</li>
                     <li><span class="text-xs">2023</span> - Botany Diploma (Merit).</li>
-                    <li><span class="text-xs">2023</span> - Herpetology Diploma (In progress).</li>
+                    <li><span class="text-xs">2024</span> - Herpetology Diploma (Distinction).</li>
                 </ul>
 
                 <div class="h-6"></div>

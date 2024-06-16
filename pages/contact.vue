@@ -20,7 +20,7 @@
 
 <template>
     <div>
-        <h4 class="mt-3 text-lg font-semibold">Contact</h4>
+        <h4 class="text-lg font-semibold">Contact</h4>
 
         <img src="CV_Photo.jpg" style="width: 200px;"/>
 
