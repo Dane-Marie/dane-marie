@@ -25,7 +25,7 @@ img {
                     variety of professional environments with my main focus being remote managerial with administrative
                     duties along with customer care. I am very detail oriented, highly organised, responsible and an
                     excellent communicator. I always strive to learn more and develop my skills as much as I possibly
-                    can.
+                    can. 
                 </p>
             </div>
             <div class="w-1/2">
