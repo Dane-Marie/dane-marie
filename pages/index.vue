@@ -49,7 +49,7 @@ img {
 
                 <p class="text-base font-thin">Work Experience</p>
                 <ul class="text-sm list-disc list-inside">
-                    <li><span class="text-xs">January 2022 - June 2023</span> &nbsp;&nbsp;&nbsp; - The Bio-Bunker.
+                    <li><span class="text-xs">January 2022 - June 2023</span> &nbsp;&nbsp; - The Bio-Bunker.
                     </li>
                     <li><span class="text-xs">June 2014 - November 2016</span> - Medihelp Medical Scheme (Strata).</li>
                     <li><span class="text-xs">June 2011 - November 2013</span> - Lolec Electrical & Plumbing Services.
