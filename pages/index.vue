@@ -87,7 +87,13 @@ img {
                     </li>
                 </ul>
 
-                <div class="h-6"></div>
+                <div class="h-3"></div>
+
+                <p class="text-sm font-thin">
+                    <a class="underline" href="https://drive.google.com/drive/folders/1qXUiuAHlXykOLQYaIF-NVfo1uU1vWwG9?usp=sharing">My Certificates</a>
+                </p>
+
+                <div class="h-3"></div>
 
                 <p class="text-base font-thin">Education</p>
                 <ul class="text-sm list-disc list-inside">
