@@ -33,7 +33,6 @@
                     <p class="mt-1">
                         <span>+27 84 036 0280 · +27 62 929 5116</span>
                     </p>
-                    </p>
                 </div>
                 <div class="flex flex-row space-x-4 mb-8">
                     <a target="_blank" :href="$const.facebook">
